@@ -1,0 +1,8 @@
+title: Marmer
+description: My github page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
